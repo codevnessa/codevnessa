@@ -1,6 +1,5 @@
-# Vanessa 🌸
+# Sobre Mim 🌸
 
-## Sobre Mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com grande paixão por tecnologia e desenvolvimento web. Estou sempre buscando aprender mais sobre linguagens de programação e aprofundar meus conhecimentos na área de front-end. ✨
 
