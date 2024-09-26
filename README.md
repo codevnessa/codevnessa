@@ -22,4 +22,3 @@ Meu foco atual é evoluir na área de front-end, aplicando as habilidades adquir
 ## :star2: Projetos Recentes
 
 - Finalização de um site em HTML/CSS. 🖥️
-- Criação de scripts para otimização de computadores recém-formatados. ⚙️
