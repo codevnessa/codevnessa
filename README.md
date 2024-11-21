@@ -1,6 +1,6 @@
 # Sobre Mim 🌸
 
-Amo aprender coisas novas, cuidar do que amo, como meu gatinho Apollo, me dedicar aos meus estudos e projetos, e buscar sempre soluções práticas e eficientes para o que faço. ✨
+Amo aprender coisas novas, cuidar do que amo, como meu gatinho Apolo, me dedicar aos meus estudos e projetos, e buscar sempre soluções práticas e eficientes para o que faço. ✨
 
 ## ✨ Habilidades
 
