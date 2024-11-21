@@ -1,7 +1,6 @@
 # Sobre Mim 🌸
 
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, com grande paixão por tecnologia e desenvolvimento web. Estou sempre buscando aprender mais sobre linguagens de programação e aprofundar meus conhecimentos na área de front-end. ✨
+Amo aprender coisas novas, cuidar do que amo, como meu gatinho Apollo, me dedicar aos meus estudos e projetos, e buscar sempre soluções práticas e eficientes para o que faço. ✨
 
 ## ✨ Habilidades
 
@@ -16,8 +15,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com grande paixão por 
 
 ## :rocket: Objetivos
 
-Meu foco atual é evoluir na área de front-end, aplicando as habilidades adquiridas para desenvolver sites funcionais e com ótima experiência de usuário. Estou sempre aberta a novos desafios e oportunidades para aplicar meu aprendizado na prática. 💪
+Atualmente, meu foco é me especializar na área de desenvolvimento fullstack, com ênfase no backend. Busco constantemente aprimorar minhas habilidades técnicas e explorar novas tecnologias, sempre disposta a enfrentar desafios práticos que me permitam crescer profissionalmente e aplicar o que aprendo de maneira eficaz. 💪
 
-## :star2: Projetos Recentes
-
-- Finalização de um site em HTML/CSS. 🖥️
