@@ -10,7 +10,7 @@ Amo aprender coisas novas, cuidar do que amo, como meu gatinho Apolo, me dedicar
 
 ## :mortar_board: Formação
 
-- **Análise e Desenvolvimento de Sistemas (em andamento)** - Uninter 🎓
+- **Análise e Desenvolvimento de Sistemas (em andamento)**
 - **Cursos Livres:** Python 🐍, HTML5 🌐, CSS3 🎨, JavaScript 📖
 
 ## :rocket: Objetivos
