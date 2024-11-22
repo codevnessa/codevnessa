@@ -7,7 +7,7 @@
 <p align="center">  
 🌟 <strong>Developer by day, dreamer by night!</strong><br>  
 🌱  <strong>Continuously learning and building with</strong> ❤️<br>  
-👩‍💻 Focused on creating meaningful software and growing every step of the way.  
+👩‍💻 Focused on creating meaningful software and growing every step of the way 
 </p>
 
 
