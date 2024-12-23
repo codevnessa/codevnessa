@@ -18,8 +18,7 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codevnessa&show_icons=true&theme=moltack)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevnessa&layout=compact&icons=true&theme=moltack)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=codevnessa&layout=compact&icons=true&theme=moltack)
 </div>
 
 <h2 align="center">💌 Connect with Me</h2>
